@@ -1,0 +1,532 @@
+[
+  {
+    "slug": "nightfall-precinct",
+    "sort": 9,
+    "body": {
+      "additional_description": "Every theme was written on a single hardware synth, then pushed through worn cassette machines until it sounded like a memory of the city rather than the city itself.",
+      "description": "An animated noir feature about a rookie detective and a city that never quite wakes up. Aren built the score from detuned synths and rain-soaked tape loops.",
+      "highlight_image": "/assets/192_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "/assets/139_1280x960.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "A modular patch run through three cassette decks, each slightly slower than the last, so every note arrives with a little drift and hiss.",
+          "title": "Tape synth",
+          "video": ""
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 1,
+      "songs": [
+        {
+          "title": "Rain on the Badge",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Precinct Thirteen",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Neon Confession",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "The Long Stakeout",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "A Name in the Ledger",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "First Light, Last Call",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Nightfall Precinct",
+      "video": "https://assets.mixkit.co/videos/42343/42343-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/42343/42343-720.mp4"
+    }
+  },
+  {
+    "slug": "embers-of-aldrath",
+    "sort": 8,
+    "body": {
+      "additional_description": "Over four hours of adaptive music respond to the player in real time, layering percussion and voices as battles escalate.",
+      "description": "A sprawling fantasy role-playing game where every region has its own musical language, from mountain choirs to desert drums.",
+      "highlight_image": "/assets/91_1600x1598.jpg",
+      "instruments": [
+        {
+          "image": "",
+          "sound": "",
+          "text": "Pots, chains and timber beams recorded in an old boat shed, then layered into a rhythm section no orchestra could play.",
+          "title": "Found percussion",
+          "video": "https://assets.mixkit.co/videos/472/472-720.mp4"
+        },
+        {
+          "image": "/assets/140_1600x1200.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "Wet fingertips on spinning glass bowls give the elven cities their shimmering, slightly unsettling glow.",
+          "title": "Glass harmonica",
+          "video": ""
+        },
+        {
+          "image": "/assets/141_859x530.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "A hand-carved replica flute with a breathy, uneven tone, used for the oldest ruins in the game.",
+          "title": "Bone flute",
+          "video": ""
+        },
+        {
+          "image": "/assets/142_1600x937.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "Twelve tubas and contrabass trombones recorded in a stone church for the weight of the dragon themes.",
+          "title": "Low brass choir",
+          "video": ""
+        },
+        {
+          "image": "/assets/143_1600x1200.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "Tuned down a fifth and played with an e-bow, it carries the lonely travelling theme between towns.",
+          "title": "Baritone guitar",
+          "video": ""
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 2,
+      "songs": [
+        {
+          "title": "The Ashen Gate",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Hymn for the Fallen Keep",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Market of a Thousand Lanterns",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Wyrmrise",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Beneath the Obsidian Stair",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Embers of Aldrath",
+      "video": "https://assets.mixkit.co/videos/4426/4426-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/4426/4426-720.mp4"
+    }
+  },
+  {
+    "slug": "redline-country",
+    "sort": 7,
+    "body": {
+      "additional_description": "Surf rock, spaghetti western, synth horror and lounge jazz all share the same five-note motif, hidden in a different disguise each episode.",
+      "description": "A pulpy road-trip anthology where each episode borrows a different B-movie genre, and the score changes costume every week.",
+      "highlight_image": "/assets/193_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "",
+          "sound": "",
+          "text": "A synth voice designed from recordings of a revving V8, pitched to play the main riff.",
+          "title": "Engine synth",
+          "video": "https://assets.mixkit.co/videos/44047/44047-720.mp4"
+        },
+        {
+          "image": "",
+          "sound": "",
+          "text": "A pair of vintage condenser mics placed far from the band to capture the sweaty, roadhouse sound of the room.",
+          "title": "Room microphones",
+          "video": "https://assets.mixkit.co/videos/44049/44049-720.mp4"
+        },
+        {
+          "image": "",
+          "sound": "",
+          "text": "Aren wrote and sang the show’s fictional jukebox hit, recorded live in one take.",
+          "title": "Lead vocal",
+          "video": "https://assets.mixkit.co/videos/2961/2961-720.mp4"
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 3,
+      "songs": [
+        {
+          "title": "Ignition at Midnight",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "High Noon at the Gas Pump",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Chrome Drive-In Creature",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Motel Lounge Shuffle",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Last Exit Overdrive",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Redline Country",
+      "video": "https://assets.mixkit.co/videos/52427/52427-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/52427/52427-720.mp4"
+    }
+  },
+  {
+    "slug": "hollow-pines",
+    "sort": 6,
+    "body": {
+      "additional_description": "The score leans on solo voice and bowed piano strings, staying almost silent until the story finally cracks open.",
+      "description": "A slow-burn psychological thriller set in a remote forest lodge, where three friends start to doubt what they remember.",
+      "highlight_image": "/assets/194_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "/assets/144_1600x1202.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "The strings were tracked in a timber-lined hall chosen for its warm, close sound.",
+          "title": "Wooden scoring stage",
+          "video": ""
+        },
+        {
+          "image": "/assets/145_1600x1200.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "A wordless soprano line becomes the voice of the forest itself.",
+          "title": "Solo soprano",
+          "video": ""
+        },
+        {
+          "image": "/assets/146_1600x757.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "The film premiered at an independent festival with a live string quartet performing the opening cue.",
+          "title": "Festival premiere",
+          "video": ""
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 4,
+      "songs": [
+        {
+          "title": "The Lodge at Dusk",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Hollow Pines Main Title",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Footsteps Upstairs",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Do You Remember the Lake",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Where the Path Ends",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Hollow Pines",
+      "video": "https://assets.mixkit.co/videos/22729/22729-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/22729/22729-720.mp4"
+    }
+  },
+  {
+    "slug": "skyline-misfits",
+    "sort": 5,
+    "body": {
+      "additional_description": "Big brassy action cues collide with tiny ukulele punchlines, because the jokes land better when the music takes itself too seriously.",
+      "description": "An adult animated comedy about a crew of low-budget superheroes who keep saving the city by accident.",
+      "highlight_image": "/assets/195_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "/assets/147_766x904.jpg",
+          "sound": "",
+          "text": "A bright, jangly twelve-string carries the theme song and most of the cheerful disasters.",
+          "title": "Twelve-string guitar",
+          "video": ""
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 5,
+      "songs": [
+        {
+          "title": "Accidental Heroes",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Everyone Deserves a Cape",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Rooftop Pursuit (Mostly Walking)",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Villain Small Talk",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "We Meant to Do That",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Rush Hour Rescue",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Skyline Misfits",
+      "video": "https://assets.mixkit.co/videos/41375/41375-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/41375/41375-720.mp4"
+    }
+  },
+  {
+    "slug": "glowbugs",
+    "sort": 4,
+    "body": {
+      "additional_description": "Each short runs under five minutes, so every cue has to set the scene, land the gag and get out in a handful of bars.",
+      "description": "A collection of animated shorts about tiny glowing creatures who throw dance parties in the dark.",
+      "highlight_image": "/assets/196_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "/assets/149_1600x1200.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "Spring reverb and a vintage tremolo pedal give the bugs their bouncy, retro swagger.",
+          "title": "Surf guitar",
+          "video": ""
+        },
+        {
+          "image": "",
+          "sound": "",
+          "text": "A felt-dampened grand piano plays the lullaby that closes every short.",
+          "title": "Grand piano",
+          "video": "https://assets.mixkit.co/videos/43774/43774-720.mp4"
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 6,
+      "songs": [
+        {
+          "title": "Lights Out, Party On",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "The Firefly Shuffle",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Babysitting a Moth",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Lantern Disco Part Two",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Goodnight, Glowbugs",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Glowbugs",
+      "video": "https://assets.mixkit.co/videos/33906/33906-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/33906/33906-720.mp4"
+    }
+  },
+  {
+    "slug": "dunes-of-kharos",
+    "sort": 3,
+    "body": {
+      "additional_description": "The score shifts style as the pilot crosses each region, from frontier western to cosmic choir, mirroring a journey through genres.",
+      "description": "A sci-fi adventure film following a stranded pilot across a desert planet, scored with equal parts orchestra and electronics.",
+      "highlight_image": "/assets/197_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "/assets/151_522x506.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "A sixty-piece orchestra recorded over two days, with the brass section split across two rooms.",
+          "title": "Scoring session",
+          "video": ""
+        },
+        {
+          "image": "/assets/152_978x515.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "An acoustic guitar played with a cello bow creates the wind-like texture heard over the dunes.",
+          "title": "Bowed guitar",
+          "video": ""
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 8,
+      "songs": [
+        {
+          "title": "Crash on Kharos",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "The Salt Flats",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Caravan of Strangers",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Signal from the Ridge",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "The Sandstorm Siege",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Oasis Lullaby",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Kharos Main Title",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Dunes of Kharos",
+      "video": "https://assets.mixkit.co/videos/4149/4149-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/4149/4149-720.mp4"
+    }
+  },
+  {
+    "slug": "apex-waters",
+    "sort": 2,
+    "body": {
+      "additional_description": "Aren joined part of the shoot at sea, recording hydrophone audio that later became the bed of the score.",
+      "description": "A wildlife docuseries that follows the ocean’s top predators, from kelp forests to the open blue.",
+      "highlight_image": "/assets/198_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "/assets/153_1361x1600.jpg",
+          "sound": "",
+          "text": "Long days on a research boat, recording the ocean between camera dives.",
+          "title": "Field crew",
+          "video": ""
+        },
+        {
+          "image": "/assets/154_801x434.jpg",
+          "sound": "",
+          "text": "Underwater microphones captured whale calls and reef crackle used throughout the score.",
+          "title": "Hydrophones",
+          "video": ""
+        },
+        {
+          "image": "/assets/155_801x399.jpg",
+          "sound": "",
+          "text": "A close encounter that shaped the slow, circling theme of the third episode.",
+          "title": "Cage dive",
+          "video": ""
+        },
+        {
+          "image": "",
+          "sound": "",
+          "text": "Behind the scenes with the percussion section tracking the finale.",
+          "title": "Score recording",
+          "video": "https://assets.mixkit.co/videos/51843/51843-720.mp4"
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 9,
+      "songs": [
+        {
+          "title": "Approaching the Reef",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Night Dive",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "The Giant Circles",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Under the Thermocline",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Guardians of the Deep",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Following the Fin",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Apex Waters",
+      "video": "https://assets.mixkit.co/videos/4406/4406-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/4406/4406-720.mp4"
+    }
+  },
+  {
+    "slug": "rooftop-heroes",
+    "sort": 1,
+    "body": {
+      "additional_description": "The theme song doubles as the heroes’ garage-band anthem, and returns in a new arrangement every episode.",
+      "description": "An animated superhero series about teenage friends juggling homework, band practice and saving their neighbourhood.",
+      "highlight_image": "/assets/199_1500x1000.jpg",
+      "instruments": [
+        {
+          "image": "",
+          "sound": "",
+          "text": "Recording the main theme with a live band and a choir of the voice cast.",
+          "title": "Theme sessions",
+          "video": "https://assets.mixkit.co/videos/44147/44147-720.mp4"
+        },
+        {
+          "image": "/assets/156_1600x1200.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "A wobbly, comic bass clarinet line for the series’ most dramatic (and least competent) villain.",
+          "title": "Villain motif",
+          "video": ""
+        },
+        {
+          "image": "/assets/157_1600x1038.jpg",
+          "sound": "/assets/serene_view.mp3",
+          "text": "The theme was performed live at a fan convention with a full rhythm section.",
+          "title": "Live show",
+          "video": ""
+        }
+      ],
+      "music_for_video": "/assets/serene_view.mp3",
+      "project_number": 10,
+      "songs": [
+        {
+          "title": "Rooftop Heroes Theme",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Meanwhile, at Band Practice",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Detention Showdown",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Sweet Victory Lap",
+          "url": "/assets/serene_view.mp3"
+        },
+        {
+          "title": "Did That Just Happen",
+          "url": "/assets/serene_view.mp3"
+        }
+      ],
+      "title": "Rooftop Heroes",
+      "video": "https://assets.mixkit.co/videos/51297/51297-1080.mp4",
+      "video_preview": "https://assets.mixkit.co/videos/51297/51297-720.mp4"
+    }
+  }
+]
