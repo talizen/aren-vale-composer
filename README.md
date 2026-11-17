@@ -2,7 +2,9 @@
 
 A dark, cinematic portfolio for film, series and game composers. The home page is a 3D image space you can roam, switching to an index view in one click — plus work list, project detail, about and contact pages, with projects kept in one content file.
 
-**[Live preview](https://qep0wt54k01u.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep0wr6gzvyq&utm_source=talizen-templates&utm_medium=readme&utm_campaign=aren-vale-composer)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=aren-vale-composer)**
+[![Aren Vale — Composer Portfolio](https://fsu.creght.com/site/2121561300969459712/1794745199748__qcy33kkrbtea_a.jpg?w=1200&fmt=jpg)](https://qep0wt54k01u.site.talizen.com/)
+
+**[Live preview](https://qep0wt54k01u.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep0wr6gzvyq&utm_source=talizen-templates&utm_medium=readme&utm_campaign=aren-vale-composer)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=aren-vale-composer)** · **[Star on GitHub](https://github.com/talizen/aren-vale-composer)**
 
 A free website template from **[Talizen Templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=aren-vale-composer)**, built with [Talizen](https://www.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=aren-vale-composer).
 
